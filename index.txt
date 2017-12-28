@@ -1,0 +1,82 @@
+AgoraChain NetRooms
+
+
+Introduccion :
+Las NetRooms es un espacio para el aprendizaje y difusion. La idea de las NetRooms esta basada en Hangouts (o otro protocolo que deje webcam y compartir pantalla) con x personas para la asistencia en ellas y de diferentes tematicas a elegir. En el habria un calendario oficial donde suscribirse a las diferentes NetRooms que se organizen para el aprendijaze y compartir conocimiento con la comunidad.
+
+Por ello se piensa en ir de la mano con Entropy Factory y poder garantizar una tecnologia a la altura del proyecto.
+
+NetRooms:
+
+AgoraChain neccesita una herramienta para gestionar la monetitzacion y exclusividad en el contenido que ofrece. Es por ello que se piensa en un SmartContract que ligue al usuario a participar en el ecosistema que cree el proyecto. Para ello se piensan en diferentes acciones y como se deberia desarrollar para que tenga funcionamiento,facil acceso y de usabilidad para todos.
+
+
+
+
+Funciones del Token:
+
+Basicamente el uso del SmartContract seria poder implementar una fidelidad y exclusivad. Es por ello que se plantea unas primeras basandonos en la taquilla inversa que realizan en los teatros. Se basara en tu asistes y una vez terminada la NetRoom tu decides cuando quieres aportar a dicho aprendizaje. Es por ello que se opta por estas 3 primeras opciones:
+
+1) No pagar.
+2) Pagar la cantidad que se desee
+3) Pagar la media
+
+* En el caso de no pagar se valora si repercutiria en unos tokens por asistencias que le permite el acceso a mas niveles
+
+**Niveles de Netrooms**
+
+Los niveles de NetRooms estarian basados en los tokens o pagando mediante el Token o moneda ETH (por ejemplo) ella te permitiria acceder a diferentes niveles de las NetRooms. Cuanto mas nivel o costosa sea la formacion, charla deberas disponer de tokens o utilizar pago.
+
+Nivel 1Introductorio
+Nivel 2 clases, estudios, estrategias avanzadas, desarrollo etc etc..
+Nivel 3 Practicas
+Nivel 4 Cursos de x duracion
+Nivel 5 Presenciales
+* Todos los niveles seran grabados y podran ser utilizado en un futuro o incluso ofrecer como un paquete en formato video.
+
+
+* Aplicar un formato flexible para cada campo de conocimiento, mientras en algunos casos con 2 niveles sea suficiente en otros serán necesarios 3 o 4.
+
+** La idea es orientativa a la hora de desarrollar el Token o SmartContract tener una vision general del proyecto.
+
+**Las bonificaciones**
+
+Las bonificaciones se haran possibles en el registro de asistencias y participacion que el usuario tenga con AgoraChain. Dicha bonificacion se podria cambiar por tokens para poder asistir a otros niveles o del mismo nivell.
+
+El profesorado tambien recibira una bonificacion extra y recibir tokens para la asistencia a otras NetRooms
+
+El pair BTC/LTC/ETH del token es indispensable.
+
+
+
+**Otras funciones**
+
+La usabilidad del token debe centrarse en los alumnos, no en los profesores, los profesores son los receptores y los alumnos los emisarios, por tanto para que los alumnos emitan el token deben tener necesidad de hacerlo.
+La de costear los niveles a partir de los tokens es la primordial.
+
+Aunque hay la parte de contabilizar horas de cursos o asistencias del alumnado y profesorado para poder fidelizar/bonificar
+
+
+**Web**
+
+La web debera disponer de...
+
+- Inicio: un pequeño escaparate de todo
+- Informacion del proyecto AgoraChain
+- NetRooms: Informacion del Token y funcionamiento de las NetRooms
+----- Calendario
+----- Inscripcion
+-----.Profesorado
+----- Niveles
+- Magazine info: Espacio donde ir subiendo la revista quinzenal y futuro medio de comunicacion
+- Contacto
+
+
+**Servicios extras**
+
+Se habla de utilizar una pasarela de pago para facilitar la compra de Tokens para el acceso a las NetRooms
+
+
+**AirDrop**
+
+Possibilidad de realizar un AirDrop para difusion del prpo
